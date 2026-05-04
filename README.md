@@ -1,16 +1,23 @@
-## Hi there 👋
+# Pierre par Pierre — Micro-outils
 
-<!--
-**pierre-par-pierre/pierre-par-pierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Petits scripts Python pour résoudre des irritants du quotidien.
+Chaque script = une vidéo de 60 secondes sur la chaîne.
 
-Here are some ideas to get you started:
+## Comment utiliser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Clique sur le dossier de l'outil qui t'intéresse (en haut de cette page)
+2. Lis son README pour les instructions
+3. Télécharge le script et lance-le
+
+Prérequis : Python 3.10 ou plus récent. [Comment installer Python](https://www.python.org/downloads/).
+
+## Les outils
+
+_La liste arrive avec la première vidéo. Reviens bientôt._
+
+## Me suivre
+
+- YouTube : [@pierre.par.pierre](https://youtube.com/@pierre.par.pierre)
+- TikTok : 
+- Instagram : 
+- X : 
