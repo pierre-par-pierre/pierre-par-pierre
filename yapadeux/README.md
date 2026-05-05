@@ -101,17 +101,6 @@ technique.
 - **Deux restaurations simultanées : interdites** par le verrou
   équivalent.
 
-## Ce qui est démontré dans la vidéo
-
-Un Bureau encombré, double-clic sur `LANCER.vbs`, le dossier
-`_doublons-detectes/` se remplit en direct sous les yeux du
-spectateur, ouverture du `_RAPPORT.txt` final. Aucun terminal
-visible.
-
-## Numéro du short
-
-short-N
-
 ## Licence
 
 MIT — voir [LICENSE](LICENSE).
