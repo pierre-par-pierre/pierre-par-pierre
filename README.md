@@ -1,23 +1,35 @@
 # Pierre par Pierre — Micro-outils
 
-Petits scripts Python pour résoudre des irritants du quotidien.
-Chaque script = une vidéo de 60 secondes sur la chaîne.
+Petits scripts Python pour des irritants qu'on subit sans réfléchir.
+Un irritant = un script = une vidéo de 60 secondes sur la chaîne.
+
+Si t'es là, c'est qu'un truc t'a énervé. Bienvenue.
 
 ## Comment utiliser
 
-1. Clique sur le dossier de l'outil qui t'intéresse (en haut de cette page)
-2. Lis son README pour les instructions
-3. Télécharge le script et lance-le
+1. Choisis l'outil qui parle à ton irritant du moment (liste plus bas)
+2. Télécharge — c'est gratuit, le README de chaque outil explique le reste
+3. Double-clique. Pas de terminal, pas de ligne de commande, promis.
 
-Prérequis : Python 3.10 ou plus récent. [Comment installer Python](https://www.python.org/downloads/).
+Prérequis : Python 3.10 ou plus récent. [Comment installer Python](https://www.python.org/downloads/). — coche bien "Add Python to PATH" pendant l'install.
 
 ## Les outils
 
-_La liste arrive avec la première vidéo. Reviens bientôt._
+### yapadeux
+
+Détecte les fichiers doublons sur ton Bureau et tes Téléchargements. Pierre par pierre.
+
+⬇️ Télécharger yapadeux — clique sur yapadeux.zip
+
+📂 Voir le code
+
+🎬 Voir la vidéo
+
+D'autres outils arrivent. Si tu as une corvée que tu fais à la main et que t'aimerais plus jamais refaire, balance-la en commentaire sur la chaîne.
 
 ## Me suivre
 
-- YouTube : [@pierre.par.pierre](https://youtube.com/@pierre.par.pierre)
-- TikTok : 
-- Instagram : 
-- X : 
+🎥 YouTube : [@pierre.par.pierre](https://youtube.com/@pierre.par.pierre)
+🎵 TikTok : 
+📷 Instagram : 
+𝕏 :
