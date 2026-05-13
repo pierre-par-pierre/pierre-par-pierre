@@ -15,7 +15,7 @@ Prérequis : Python 3.10 ou plus récent. [Comment installer Python](https://www
 
 ## Les outils
 
-### yapadeux
+### #01 — yapadeux
 
 Détecte les fichiers doublons sur ton Bureau et tes Téléchargements. Pierre par pierre.
 
