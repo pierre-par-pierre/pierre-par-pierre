@@ -19,7 +19,7 @@ Prérequis : Python 3.10 ou plus récent. [Comment installer Python](https://www
 
 Détecte les fichiers doublons sur ton Bureau et tes Téléchargements. Pierre par pierre.
 
-⬇️ **[Télécharger yapadeux]([https://github.com/pierre-par-pierre/pierre-par-pierre/releases/tag/yapadeux-v1.0]** — clique sur yapadeux.zip
+⬇️ **[Télécharger yapadeux](https://github.com/pierre-par-pierre/pierre-par-pierre/releases/tag/yapadeux-v1.0)** — clique sur yapadeux.zip
 🎬 Voir la vidéo
 
 D'autres outils arrivent. Si tu as une corvée que tu fais à la main et que t'aimerais plus jamais refaire, balance-la en commentaire sur la chaîne.
